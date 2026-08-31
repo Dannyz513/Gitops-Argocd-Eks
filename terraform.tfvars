@@ -1,0 +1,1 @@
+github_repo_url = "https://github.com/Dannyz513/gitops-argocd-eks"
