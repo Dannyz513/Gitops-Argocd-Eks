@@ -4,7 +4,7 @@ metadata:
   name: gitops-demo-app
   namespace: default
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: gitops-demo-app
